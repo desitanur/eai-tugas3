@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ayo, semangat DESITA :)
+                    DATA BUKU
                 </div>
 
                 <div class="links">
